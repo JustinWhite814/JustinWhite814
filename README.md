@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin White</h1>
 <h3 align="center">A passionate Full Stack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, MERN Stack, Express, Node, HTML, CSS, JS**
